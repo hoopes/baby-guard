@@ -1,0 +1,8 @@
+click
+cffi
+sounddevice
+pudb
+ipython
+numpy
+clint
+numpy_ringbuffer
